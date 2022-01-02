@@ -1,1 +1,1 @@
-[GitHub Pages](https://toshiteshigure.github.io/super-mario-css-animation/)
+[GitHub Pages](https://tsuyune.github.io/super-mario-css-animation/)
